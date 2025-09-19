@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
+## Infromación del estudiante
 Aron Cervantes Armenta \[22211750]; l22211750@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
