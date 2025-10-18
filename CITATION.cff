@@ -10,13 +10,13 @@ authors:
     family-names: Cervantes
     email: l22211750@tectijuana.edu.mx
     affiliation: TecNM-ITT
-repository-code: 'https://github.com/AronCervantes/Practica0MSF'
+repository-code: 'https://github.com/AronCervantes/Practica2MSF'
 keywords:
   - Circuito RLC
-  - Controlador PID
-  - Sistema respiratorio
+  - Controlador PI
+  - Sistema cardiovascular
   - Modelo matemático
   - Simulaciones numéricas
 license: BSD-2-Clause
 version: '1.0'
-date-released: '2025-09-19'
+date-released: '2025-10-17'
